@@ -7,7 +7,7 @@ import asyncio
 
 
 async def Sitevalidation():
-    os.environ["GEMIMI_API_KEY"]= "AIzaSyCrM2P1Mm5e95rpzGXDWTGlLCZR3BPVQUs"
+    os.environ["GEMIMI_API_KEY"]= "AIzaSyCrM2P1Mm5e95rpzGXDWTGlLCZR3BPVQU" # add s
     print("Starting AI Agent code")
     task = (
         'I am automation tester validating a task '
